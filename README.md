@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lavish Yadav</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/lavish_yadav764" target="blank"><img src="https://img.shields.io/twitter/follow/lavish_yadav764?logo=twitter&style=for-the-badge" alt="lavish_yadav764" /></a> </p>
+<p align="left"> <a href="https://instagram.com/lavish_yadav764" target="blank"><img src="https://img.shields.io/instagram/follow/lavish_yadav764?logo=twitter&style=for-the-badge" alt="lavish_yadav764" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
 
