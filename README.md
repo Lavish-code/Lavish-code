@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lavish_yadav764" target="blank"><img src="https://img.shields.io/twitter/follow/lavish_yadav764?logo=twitter&style=for-the-badge" alt="lavish_yadav764" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Backend**
 
 - 🤝 I’m looking for a new role **Full Stack Developer**
 
