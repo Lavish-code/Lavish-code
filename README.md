@@ -15,6 +15,7 @@
 <a href="https://linkedin.com/in/httlavish-yadav-94765821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httlavish-yadav-94765821a" height="30" width="40" /></a>
 <a href="https://instagram.com/lavish_yadav764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lavish_yadav764" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/lavish1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lavish1612" height="30" width="40" /></a>
+<a href="https://portfolio-lavish.vercel.app/" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/web.png" alt="portfolio" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
